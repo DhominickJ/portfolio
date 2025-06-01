@@ -19,17 +19,17 @@ export default function Background() {
                     <div class="grid grid-cols-3 gap-4 mt-8">
                         <div class="bg-blue-100 dark:bg-blue-800 p-4 rounded-lg">
                             <i class="fas fa-code text-blue-600 dark:text-blue-400 text-2xl mb-2"></i>
-                            <h4 class="font-semibold">Web Development</h4>
+                            <h4 class="font-semibold text-wrap">Web Development</h4>
                             <p class="text-sm text-blue-500 dark:text-blue-400">1+ Years</p>
                         </div>
                         <div class="bg-blue-100 dark:bg-blue-800 p-4 rounded-lg">
                             <i class="fas fa-paint-brush text-blue-600 dark:text-blue-400 text-2xl mb-2"></i>
-                            <h4 class="font-semibold">Arduino/ESP32</h4>
+                            <h4 class="font-semibold text-wrap">Arduino/ESP32</h4>
                             <p class="text-sm text-blue-500 dark:text-blue-400">1+ Years</p>
                         </div>
                         <div class="bg-blue-100 dark:bg-blue-800 p-4 rounded-lg">
                             <i class="fas fa-paint-brush text-blue-600 dark:text-blue-400 text-2xl mb-2"></i>
-                            <h4 class="font-semibold">Backend Dev</h4>
+                            <h4 class="font-semibold text-wrap">Backend Dev</h4>
                             <p class="text-sm text-blue-500 dark:text-blue-400">.8 Years</p>
                         </div>
                     </div>

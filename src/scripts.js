@@ -10,11 +10,11 @@ if (localStorage.getItem('color-theme') === 'dark' ||
     html.classList.remove('dark');
 }
 
-// Toggle theme
-themeToggle.addEventListener('click', () => {
-    html.classList.toggle('dark');
-    localStorage.setItem('color-theme', html.classList.contains('dark') ? 'dark' : 'light');
-});
+// // Toggle theme
+// themeToggle.addEventListener('click', () => {
+//     html.classList.toggle('dark');
+//     localStorage.setItem('color-theme', html.classList.contains('dark') ? 'dark' : 'light');
+// });
 
 // Mobile Menu Toggle
 const mobileMenuButton = document.getElementById('mobileMenuButton');
