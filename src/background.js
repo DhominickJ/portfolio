@@ -24,7 +24,7 @@ export default function Background() {
                         </div>
                         <div class="bg-blue-100 dark:bg-blue-800 p-4 rounded-lg">
                             <i class="fas fa-paint-brush text-blue-600 dark:text-blue-400 text-2xl mb-2"></i>
-                            <h4 class="font-semibold text-wrap">Arduino/ESP32</h4>
+                            <h4 class="font-semibold text-wrap">Arduino - ESP32</h4>
                             <p class="text-sm text-blue-500 dark:text-blue-400">1+ Years</p>
                         </div>
                         <div class="bg-blue-100 dark:bg-blue-800 p-4 rounded-lg">
