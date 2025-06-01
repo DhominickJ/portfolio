@@ -17,7 +17,7 @@ export default function Background() {
                         I'm committed to continuous learning and staying updated with industry trends (especially on the hardware stuff). Also, Arch btw.
                     </p>
                     <div class="grid grid-cols-3 gap-4 mt-8">
-                        <div class="bg-blue-100 dark:bg-blue-800 p-4 rounded-lg text-[10vw]">
+                        <div class="bg-blue-100 dark:bg-blue-800 p-4 rounded-lg">
                             <i class="fas fa-code text-blue-600 dark:text-blue-400 text-2xl mb-2"></i>
                             <h4 class="font-semibold text-wrap">Web Dev</h4>
                             <p class="text-sm text-blue-500 dark:text-blue-400">1+ Years</p>
