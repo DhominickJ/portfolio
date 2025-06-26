@@ -1,7 +1,7 @@
 
 export default function Headers(styles) {
     return(`
-    <nav class="sticky top-0 z-50 bg-white/80 font-bold dark:bg-[${styles.getPropertyValue('--dark-background')}] backdrop-blur-md shadow-sm text-[${styles.getPropertyValue('--primary')}]">
+    <nav class="sticky top-0 z-50 bg-[var(--dark-background)] font-bold  backdrop-blur-md shadow-sm text-[${styles.getPropertyValue('--primary')}]">
         <div class="container mx-auto px-6 py-4">
             <div class="flex justify-between items-center">
                 <a href="#" class="text-2xl font-bold text-[#428EC5] dark:text-[${styles.getPropertyValue('--primary')}]">Strynyx</a>

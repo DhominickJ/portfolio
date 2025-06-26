@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const styles = getComputedStyle(document.documentElement);
   document.querySelector('#app').innerHTML = `
     ${Headers(styles)}
-    <main class="w-full px-10 dark:bg-[${styles.getPropertyValue('--background-color')}] dark:bg-[${styles.getPropertyValue('--dark-background')}]">
+    <main class="w-full px-10 bg-[var(--dark-background)] dark:bg-[${styles.getPropertyValue('--dark-background')}]">
     ${About()}
     ${Background()}
     ${Goals()}   
