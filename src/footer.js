@@ -21,9 +21,6 @@ export default function Footer() {
                     <i class="fab fa-instagram"></i>
                 </a>
             </div>
-            <div class="text-center text-blue-500 dark:text-blue-400 text-sm">
-                <p>© 2023 My Portfolio. All rights reserved.</p>
-            </div>
         </div>
     </footer>
     `)
